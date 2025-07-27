@@ -1,3 +1,1 @@
-# datascience
-data science course work
-.gitignore
+taxi-data-analysis
